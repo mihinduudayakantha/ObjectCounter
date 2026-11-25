@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Object Counter</string>
+    <string name="gallery">Gallery</string>
+    <string name="live">Live camera</string>
+    <string name="confidence">Confidence: %1$d%%</string>
+    <string name="nothing">No objects found</string>
+    <string name="total">Total: %1$d</string>
+    <string name="permission_needed">Camera permission is needed for live counting. You can still use Gallery.</string>
+</resources>
